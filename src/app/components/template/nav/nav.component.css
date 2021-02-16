@@ -1,0 +1,30 @@
+.navigation {
+  transition: 0.3s all;
+  background-color: rgba(0, 0, 0, 0.85);
+  z-index: 1;
+}
+
+.navigation .navbar-nav > li > a {
+  color: #56a3a6;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 26px;
+  padding: 20px 15px !important;
+  transition: 0.2s ease-in-out 0s;
+}
+
+.navigation .navbar-nav > li > a:hover,
+.navigation .navbar-nav > li > a:focus {
+  background: transparent;
+  color: #fff;
+}
+
+.navigation .navbar-toggler {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+.logo{
+  height: 10vh;
+}

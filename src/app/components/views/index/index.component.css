@@ -1,0 +1,56 @@
+section {
+  background-color: #1d323c;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.950) 0%, #1d323c 100%);
+}
+
+.section {
+  padding: 124px 0;
+}
+
+.bg-black {
+  background: rgba(0, 0, 0, 0.950);
+}
+
+.block h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.video-player {
+  height: 50vh;
+  min-height: 10vh;
+}
+
+.video-player iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.video-player .down-10{
+  position: relative;
+  top: 10vh;
+}
+
+.video-player .down-20{
+  position: relative;
+  top: 20vh;
+}
+
+
+
+.btn-believer{
+  color: #fff;
+  border-color: #fff;
+  background-color: #0a1d2b8c;
+  transition: 200ms ease-in;
+  font-weight: bold;
+}
+
+.btn-believer:hover{
+  color: #fff;
+  border-color: #000;
+  border-color: #0a1d2b;
+  background-color: #c42d8a;
+  transition: 200ms ease-in;
+}

@@ -1,0 +1,47 @@
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:50%;
+  position:relative;
+  height:0;
+  height: 50vh;
+}
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.contact-meta-block {
+  margin-top: 30px;
+  padding: 40px 0;
+  min-height: 250px;
+  text-align: center;
+  background: #000;
+  border-radius: 3px;
+  box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.05);
+  color: #fff;
+  box-shadow: 5px 5px 10px #56a3a6;
+}
+
+.contact-meta-block > i {
+  display: block;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+a{
+  color: #fff;
+  font-size: 6vh;
+  padding: 1vw;
+}
+
+h2{
+  color: #fff;
+  font-size: 4rem;
+}
+
+.hero-area{
+  padding: 10vh;
+}

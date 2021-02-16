@@ -1,0 +1,15 @@
+.area {
+  display: flex;
+  background: #0A1D2B;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .box{
+  height: 12vh;
+  width: 50vw;
+  background-color:#1d323c;
+  position: absolute;
+  bottom: -309vh;
+  left: 26vw;
+} */
